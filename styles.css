@@ -8,7 +8,7 @@ div {
     min-width: 300px;
 }
 
-#title {
+#title, #tribute-info h2 {
     text-align: center;
 }
 
