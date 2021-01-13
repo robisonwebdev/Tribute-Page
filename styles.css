@@ -8,8 +8,18 @@ div {
     min-width: 300px;
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 #title, #tribute-info h2 {
     text-align: center;
+}
+
+#tribute-info p {
+    text-align: center;
+    font-size: 1.5em;
+    margin: 25px 0 25px 0;
 }
 
 #img-div {
