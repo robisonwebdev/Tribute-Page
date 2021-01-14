@@ -27,6 +27,11 @@ li {
     margin: 25px 0 25px 0;
 }
 
+#tribute-info {
+    align-self: center;
+    max-width: 90%;
+}
+
 #img-div {
     display: flex;
     flex-direction: column;
