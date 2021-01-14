@@ -3,6 +3,12 @@
     flex-direction: column;
 }
 
+#footer {
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
 div {
     margin: 0 25px;
     min-width: 300px;
@@ -30,9 +36,10 @@ li {
 }
 
 #image {
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
     margin-bottom: 10px;
+    align-self: center;
 }
 
 #img-caption {
