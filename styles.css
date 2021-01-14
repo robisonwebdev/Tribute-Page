@@ -13,6 +13,14 @@ div {
     margin: 0 25px;
 }
 
+h1 {
+    font-size: 3em;
+}
+
+ul {
+    margin-bottom: 50px;
+}
+
 li {
     margin-bottom: 10px;
 }
@@ -29,7 +37,7 @@ li {
 
 #tribute-info {
     align-self: center;
-    max-width: 90%;
+    max-width: 80%;
 }
 
 #img-div {
